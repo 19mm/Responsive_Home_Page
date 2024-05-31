@@ -10,8 +10,8 @@ Basic Styling with CSS: Includes styles for elements like typography, margins, p
 Files:
 index.html: Contains the HTML structure of the homepage.
 style.css: Holds the CSS styles for the layout and design.
-Setup:
 
+Setup:
 Clone this repository.
 Open index.html and style.css in your preferred code editor.
 Customize the content and styles as needed.
