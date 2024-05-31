@@ -1,4 +1,4 @@
-<Responsive Home Page (HTML & CSS)
+Responsive Home Page (HTML & CSS)
 This project is a simple and responsive home page built with HTML5 and CSS3, ensuring a smooth user experience across various devices like desktops, tablets, and smartphones.
 
 Features:
